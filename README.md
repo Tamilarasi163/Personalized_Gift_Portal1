@@ -19,4 +19,6 @@ Welcome to the Gift Ecommerce Site repository! This project is a comprehensive e
 
 **Screen Shots**
 ![image](https://github.com/Tamilarasi163/Personalized_Gift_Portal1/assets/168729876/ba8dd712-d62d-4112-98cc-52e17d38e488)
+![image](https://github.com/Tamilarasi163/Personalized_Gift_Portal1/assets/168729876/d9b38572-4452-49e1-866b-f25c5adbcf73)
+![image](https://github.com/Tamilarasi163/Personalized_Gift_Portal1/assets/168729876/533b63f8-c44a-4630-b563-d7d883237946)
 
