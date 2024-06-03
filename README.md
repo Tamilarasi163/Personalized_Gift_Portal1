@@ -1,4 +1,4 @@
-# Gift_WONDERS
+# GIFT_WONDERS
 
 Welcome to the Gift Ecommerce Site repository! This project is a comprehensive e-commerce platform designed for buying and selling gifts online. It features a user-friendly interface, robust backend, and a variety of functionalities to enhance the user experience.
 
